@@ -1,0 +1,5 @@
+table{
+    text-align: center;
+    border-collapse:collapse; 
+    /* this will make the border line will not be border-collapse */
+}
